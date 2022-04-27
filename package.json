@@ -1,0 +1,19 @@
+{
+  "name": "creations_by_darrell",
+  "version": "1.0.0",
+  "description": "Portfolio website for Darrell Wagoner",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GunnySensei/creations_by_darrell.git"
+  },
+  "author": "GunnySensei",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GunnySensei/creations_by_darrell/issues"
+  },
+  "homepage": "https://github.com/GunnySensei/creations_by_darrell#readme"
+}
