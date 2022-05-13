@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/creations_by_darrell/static/css/main.5ba0ea37.css",
+    "main.js": "/creations_by_darrell/static/js/main.b9ff0db1.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/creations_by_darrell/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/jewelery_box_standing.jpg": "/creations_by_darrell/static/media/jewelery_box_standing.be87a6a1e5deab0eedf1.jpg",
+    "static/media/jewelery_box_standing_2.jpg": "/creations_by_darrell/static/media/jewelery_box_standing_2.8e340dc63fd214aeadd8.jpg",
+    "static/media/round_oak_leif_table.jpg": "/creations_by_darrell/static/media/round_oak_leif_table.bea3f95114f6fbb96d3c.jpg",
+    "static/media/dark_rocking_chair.jpg": "/creations_by_darrell/static/media/dark_rocking_chair.d1628e1a7f41af58c77e.jpg",
+    "static/media/jewelery_cabinet_2.jpg": "/creations_by_darrell/static/media/jewelery_cabinet_2.a09e07bc0236ccd01242.jpg",
+    "static/media/jewelery_box_2.jpg": "/creations_by_darrell/static/media/jewelery_box_2.0e5ef45b4eb9de1a7d5c.jpg",
+    "static/media/dark_rocking_chair_2.jpg": "/creations_by_darrell/static/media/dark_rocking_chair_2.60bc85cb25eaea4e1baf.jpg",
+    "static/media/round_oak_leif_table_2.jpg": "/creations_by_darrell/static/media/round_oak_leif_table_2.fa426cd6498b20677ff1.jpg",
+    "static/media/jewelery_cabinet.jpg": "/creations_by_darrell/static/media/jewelery_cabinet.e5f3856ad118f08e8369.jpg",
+    "static/media/jewelery_box.jpg": "/creations_by_darrell/static/media/jewelery_box.d9dc53d8b749e6e0e650.jpg",
+    "static/media/dining_chair.jpg": "/creations_by_darrell/static/media/dining_chair.e541900f02508ae857d2.jpg",
+    "static/media/dining_chair_2.jpg": "/creations_by_darrell/static/media/dining_chair_2.b747d7ff7ba1e32d6851.jpg",
+    "static/media/wall_cabinet.jpg": "/creations_by_darrell/static/media/wall_cabinet.2bce5d47ac0562523b78.jpg",
+    "static/media/wall_cabinet_2.jpg": "/creations_by_darrell/static/media/wall_cabinet_2.6dcf323461a7c9026c68.jpg",
+    "static/media/medicine_cabinet.jpg": "/creations_by_darrell/static/media/medicine_cabinet.3aefdd3524ed88cacc78.jpg",
+    "static/media/oak_side_table_2.jpg": "/creations_by_darrell/static/media/oak_side_table_2.616b92ed788565541e70.jpg",
+    "static/media/oak_side_table_3.jpg": "/creations_by_darrell/static/media/oak_side_table_3.ee3777fa4e9a0a90169d.jpg",
+    "static/media/floating_tables.jpg": "/creations_by_darrell/static/media/floating_tables.2a2d47bdce9ac756c703.jpg",
+    "static/media/maple_runner_table_2.jpg": "/creations_by_darrell/static/media/maple_runner_table_2.bd622c79dd1c3f204bbe.jpg",
+    "static/media/rockingchair2.jpg": "/creations_by_darrell/static/media/rockingchair2.ee6a72ee2cc51c212ecf.jpg",
+    "static/media/oak_side_table.jpg": "/creations_by_darrell/static/media/oak_side_table.559cff6b4814985c92f0.jpg",
+    "static/media/rockingchair1.jpg": "/creations_by_darrell/static/media/rockingchair1.7623531648a34098b2c6.jpg",
+    "static/media/medicine_cabinet_2.jpg": "/creations_by_darrell/static/media/medicine_cabinet_2.0f0b491c9901d38a8382.jpg",
+    "static/media/maple_runner_table.jpg": "/creations_by_darrell/static/media/maple_runner_table.907ca68b015d0c4dae43.jpg",
+    "static/media/glass_entry_table.jpg": "/creations_by_darrell/static/media/glass_entry_table.ffc165b6a9d7ccdb15c3.jpg",
+    "static/media/about.png": "/creations_by_darrell/static/media/about.6fd912b8f9b19e7ff86a.png",
+    "static/media/right-arrow.svg": "/creations_by_darrell/static/media/right-arrow.c6f18b714aae48dfb39f4f45660ea16c.svg",
+    "static/media/left-arrow.svg": "/creations_by_darrell/static/media/left-arrow.f52a42ad254c1f64910c89d9f253a4c5.svg",
+    "index.html": "/creations_by_darrell/index.html",
+    "main.5ba0ea37.css.map": "/creations_by_darrell/static/css/main.5ba0ea37.css.map",
+    "main.b9ff0db1.js.map": "/creations_by_darrell/static/js/main.b9ff0db1.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/creations_by_darrell/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5ba0ea37.css",
+    "static/js/main.b9ff0db1.js"
+  ]
+}
